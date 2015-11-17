@@ -1,0 +1,120 @@
+{
+    "basics": {
+        "name": "Karl Patrick Espiritu",
+        "label": "Web Developer",
+        "picture": "https://avatars2.githubusercontent.com/u/10472504?v=3&s=460",
+        "email": "wiwa.espiritu@gmail.com",
+        "phone": "+63 922-215-9796 ",
+        "website": "",
+        "summary": "I'm a passionate developer who has a deep interest in quality software and code, design patterns and best practices. I've been exposed in developing several software applications (both web and mobile) using LAMP Stack on the server-side and Javascript on the client-side for quite some time now. Just recently, I've been fascinated of how powerful Javascript can be and gradually changing my focus on developing my skills on full stack Javascript.  I love to be involved in projects that makes peoples live's a bit better. I also write plugins and contribute to the open source community on my spare time. Check out the geeky stuff I do aside from work - https://github.com/karlpatrickespiritu. I strongly believe in the saying: \"There is no secret to success, just hard work\".",
+        "location": {
+            "address": "343 Urgello St., Sambag 1",
+            "postalCode": "6000",
+            "city": "Cebu",
+            "countryCode": "PH",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "karlpatrickespiritu",
+                "url": "https://github.com/karlpatrickespiritu"
+            },
+            {
+                "network": "Twitter",
+                "username": "imkarlespiritu",
+                "url": "https://twitter.com/imkarlespiritu"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Mobile Corporation",
+            "position": "Web Developer",
+            "website": "mobile.co",
+            "startDate": "2014-09-21",
+            "endDate": "",
+            "summary": "Helps develop and maintain company-owned web and mobile applications while writing maintainable software and following coding standards with different architectural design patterns. Uses the following web technologies on the daily basis:",
+            "highlights": [
+                "Server Side - PHP (LAMP Stack), Company-built server-side (PHP) Architechture, NodeJs, Wordpress, API Integration.",
+                "Front-end - Gulp, LESS, Twitter Bootstap, Smarty, jQuery, AngularJs, different libraries and API Integration.",
+                "Mobile Application Development - AngularJs, Mobile Angular UI, Phonegap, Apache Cordova."
+            ]
+        },
+        {
+            "company": "Proweaver, Inc.",
+            "position": "Web Developer",
+            "website": "proweaver.com",
+            "startDate": "2014-03-15",
+            "endDate": "2014-09-17",
+            "summary": "I developed and maintained web applications for clients based foreign countries and have been assigned to several projects including healthcare, examination and reservation systems. I also talk to clients regularly to gather important project specifications, share project updates and to ensure that their project is on the right track.",
+            "highlights": []
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "University of Cebu",
+            "area": "Information Technology",
+            "studyType": "Bachelor of Science",
+            "startDate": "2010-06-01",
+            "endDate": "2014-03-01",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Intermediate",
+            "keywords": [
+                "LAMP Stack",
+                "PHP",
+                "MySQL",
+                "API Integration",
+                "Javascript",
+                "MVC Architechture",
+                "TDD",
+                "Design Patterns",
+                "jQuery",
+                "AngularJs",
+                "Gulp",
+                "Ajax",
+                "CodeIgniter",
+                "Wordpress",
+                "HTML",
+                "CSS",
+                "Git",
+                "Linux"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Good"
+        },
+        {
+            "language": "Tagalog",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Programming",
+            "keywords": []
+        },
+        {
+            "name": "Music",
+            "keywords": []
+        }
+    ],
+    "references": [
+        {
+            "name": "Erlich Bachman",
+            "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+        }
+    ]
+}
