@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/karlpatrickespiritu/resume/issues"
   },
-  "homepage": "https://github.com/karlpatrickespiritu/resume"
+  "homepage": "https://github.com/karlpatrickespiritu/resume",
+  "devDependencies": {},
+  "dependencies": {
+    "resume-cli": "^0.4.8"
+  }
 }
