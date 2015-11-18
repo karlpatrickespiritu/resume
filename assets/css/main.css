@@ -10,9 +10,7 @@ em {
 p {
     line-height: 1.4;
 }
-ul {
-    margin-bottom: 0;
-}
+
 section {
     margin-bottom: 2em;
 }
@@ -203,6 +201,10 @@ h2.section-title {
 
 .awarder, .website {
     margin-bottom: 5px;
+}
+
+#skills .level {
+    margin-top: 15px;
 }
 
 #skills .item {
