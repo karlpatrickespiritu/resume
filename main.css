@@ -1,0 +1,21 @@
+.text-center { text-align: center }
+.text-left { text-align: left }
+.text-right { text-align: right; }
+
+.padding { padding: 20px }
+.padding-top { padding-top: 20px !important }
+.padding-bottom { padding-bottom: 20px !important  }
+.padding-left { padding-left: 20px !important  }
+.padding-right { padding-right: 20px !important }
+
+.main-header {
+	padding-top: 20px;	
+	background: #f4f5f6
+}
+
+.main-header .links {
+	padding-top: 20px;
+}
+.main-header .links a {
+	padding-right: 10px;
+}
